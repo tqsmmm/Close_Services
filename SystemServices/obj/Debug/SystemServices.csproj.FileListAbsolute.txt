@@ -1,0 +1,10 @@
+D:\Code\关闭Services程序\SystemServices\bin\Debug\SystemServices.exe
+D:\Code\关闭Services程序\SystemServices\bin\Debug\SystemServices.pdb
+D:\Code\关闭Services程序\SystemServices\obj\Debug\SystemServices.csproj.AssemblyReference.cache
+D:\Code\关闭Services程序\SystemServices\obj\Debug\SystemServices.Properties.Resources.resources
+D:\Code\关闭Services程序\SystemServices\obj\Debug\SystemServices.csproj.GenerateResource.cache
+D:\Code\关闭Services程序\SystemServices\obj\Debug\SystemServices.csproj.CoreCompileInputs.cache
+D:\Code\关闭Services程序\SystemServices\obj\Debug\SystemServices.exe
+D:\Code\关闭Services程序\SystemServices\obj\Debug\SystemServices.pdb
+D:\Code\关闭Services程序\SystemServices\obj\Debug\SystemServices.Login.resources
+D:\Code\关闭Services程序\SystemServices\obj\Debug\SystemServices.Main.resources
